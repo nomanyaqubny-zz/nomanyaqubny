@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **nomanyaqubny/nomanyaqubny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<center><span style="font-family:Didot; font-size:2.5em;">Noman Yaqub</span></center>
+<center><span style="font-family:Didot; font-size:1.5em;">**Github:**[yourGithub](yourGithubLinkURL)</span></center>
+<center><span style="font-family:Didot; font-size:1.5em;">**Email:**[nomanyaqubny@gmail.com](nomanyaqubny@gmail.com)</span></center>
+<center><span style="font-family:Didot; font-size:1.5em;">Hamburg, Germany
+</span></center>
